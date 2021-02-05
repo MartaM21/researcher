@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Marta"
+ - name: "About"
    link: "/MyWebSite/"
  - name: "Resume"
    link: "https://docs.google.com/document/d/1gmWQ3bsc3Ewb46Vkpg66y8DUWb62rZFDpQwOBJObcHI/edit?usp=sharing"
