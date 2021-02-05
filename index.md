@@ -22,6 +22,7 @@ NLP; XAI; Fairness in ML; Algorithmic bias
 Year | Institution | Description
 -----|-------------|------------
 2020 | Fondazione Bruno Kessler | Traineeship on Fairness for Hate-Speech Classifiers
+202* | To be | Updated
 
 ---
 
