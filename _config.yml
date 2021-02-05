@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: "/MyWebSite/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "https://docs.google.com/document/d/1gmWQ3bsc3Ewb46Vkpg66y8DUWb62rZFDpQwOBJObcHI/edit?usp=sharing"
  - name: "Contact"
    link: "contact"
