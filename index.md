@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pict.jpg">
 
-Hi! I am Marta, Master's student of **Digital Humanities** at University of Pisa, Italy :)
+Hi! I am Marta Marchiori Manerba, Master's student of **Digital Humanities** at University of Pisa, Italy :)
 
 ## Research Interests
 
