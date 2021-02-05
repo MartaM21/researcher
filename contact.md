@@ -5,22 +5,19 @@ is_contact: true
 
 * Email: [foo@xyz.com](mailto:foo@xyz.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
 ---
 
-## Mailing Address
+## Based at
 
-> 221B, Baker Street
+> Livorno
 >
-> London
->
-> United Kingdom
+> Italy
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](https://twitter.com/Marta_W111)
+2. [LinkedIn](https://www.linkedin.com/in/marta-marchiori-manerba-a66119181/)
+3. [Facebook](https://www.facebook.com/marta.b.marchiori/)
+
