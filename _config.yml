@@ -3,7 +3,7 @@ url: "https://martam21.github.io/MyWebSite/"
 baseurl: "/MyWebSite"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
