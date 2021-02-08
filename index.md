@@ -10,7 +10,7 @@ Hi! I am Marta Marchiori Manerba, Master's student of **Digital Humanities** at 
 
 ## Research Interests
 
-NLP; XAI; Fairness in ML; Algorithmic bias
+NLP; XAI; Fairness in ML; Algorithmic bias; Digital Discrimination
 
 ## Publications
 
