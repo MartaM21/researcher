@@ -25,7 +25,9 @@ Year | Institution | Description
 
 ---
 
-Some inspo 
+## Communities and people that inspires me 
+
+* [Algorithmic Justice League](https://www.ajl.org/about) 
 
 > growth is a process (Rupi Kaur) 
 
