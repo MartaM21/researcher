@@ -25,7 +25,7 @@ Year | Institution | Description
 
 ---
 
-## Communities and people that inspires me 
+## Communities and people who inspire me 
 
 * [Algorithmic Justice League](https://www.ajl.org/about) 
 
