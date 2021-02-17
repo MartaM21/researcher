@@ -18,10 +18,11 @@ NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discri
 
 ## Education and experiences
 
+*It's all in the resume for now*
+
 Year | Institution | Description
 -----|-------------|------------
-2020 | Fondazione Bruno Kessler | Traineeship on Fairness for Hate-Speech Classifiers
-202* | To be | Updated
+202* | to be | updated
 
 ---
 
