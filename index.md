@@ -47,7 +47,7 @@ Year | Institution | Description
 * <a href="https://algorithmwatch.org/en/" target="_blank">AlgorithmWatch</a>
 
 > growth is a process
-> «« Rupi Kaur
+> Rupi Kaur »
 
 ---
 
