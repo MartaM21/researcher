@@ -38,4 +38,4 @@ Year | Institution | Description
 
 ---
 
-<a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw" style="font-family:https://fonts.googleapis.com/css?family=Inconsolata:400,700">Tweets by Marta_Marchiori</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
