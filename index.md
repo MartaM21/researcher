@@ -37,3 +37,8 @@ Year | Institution | Description
 > growth is a process (Rupi Kaur) 
 
 ---
+
+## Courses, Seminars, Workshops
+
+* **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
+
