@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/MyWebSite/"
+ - name: "Projects"
+   link: "projects"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
