@@ -17,12 +17,10 @@ is_contact: true
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/marta-marchiori-manerba/)
-2. [Twitter](https://twitter.com/Marta_Marchiori)
-3. [Facebook](https://www.facebook.com/marta.b.marchiori/)
-
-<a href="https://www.thesitewizard.com/html-tutorial/open-links-in-new-window-or-tab.shtml" target="_blank">Hi there</a>
+1. <a href="https://www.linkedin.com/in/marta-marchiori-manerba/" target="_blank">LinkedIn</a>
+3. <a href="https://twitter.com/Marta_Marchiori" target="_blank">Twitter</a>
+4. <a href="https://www.facebook.com/marta.b.marchiori/" target="_blank">Facebook</a>
 
 ---
 
-<a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw" target="_blank"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
