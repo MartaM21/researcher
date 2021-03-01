@@ -12,9 +12,9 @@ Hi! I am Marta Marchiori Manerba, Master's student of **Digital Humanities** at 
 
 NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discrimination
 
-## Education and experiences
+## Education summary and academic experiences
 
-*It's all in the resume for now*
+*Full version in the resume*
 
 Year | Institution | Description
 -----|-------------|------------
