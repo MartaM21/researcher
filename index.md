@@ -46,7 +46,8 @@ Year | Institution | Description
 * <a href="https://www.skynettoday.com/" target="_blank">Skynet Today</a>: Putting AI News In Perspective
 * <a href="https://algorithmwatch.org/en/" target="_blank">AlgorithmWatch</a>
 
-> growth is a process (Rupi Kaur) 
+> growth is a process
+> «« Rupi Kaur
 
 ---
 
