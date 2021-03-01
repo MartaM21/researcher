@@ -40,5 +40,7 @@ Year | Institution | Description
 
 ## Courses, Seminars, Workshops
 
+*As audience*
+
 * **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
 
