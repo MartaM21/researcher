@@ -14,11 +14,16 @@ NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discri
 
 ## Education summary and academic experiences
 
-*Full version in the resume*
+*Full version in the resume (plus links)*
 
 Year | Institution | Description
 -----|-------------|------------
-202* | to be | updated
+2021 | Knowledge Discovery and Data Mining Laboratory: Ethical, Trustworthy, Interactive AI | On-going Master’s thesis project within the field
+of Explainable Artificial Intelligence (XAI)
+2020 | Fondazione Bruno Kessler, Digital Humanities group | Traineeship on Fairness analysis for abusive language detection systems detecting unintended models biases
+2020 | University of Pisa | Academic Tutor of the course Programming and Theoretical Fundamentals
+2020 | University of Pisa | On-going Master's Degree in Digital Humanities: Language Technologies
+2019 | University of Pisa | Bachelor's Degree in Digital Humanities: Thesis project carried out in the field of Assistive Technology for Education
 
 ## Publications and academic writing 
 
@@ -29,6 +34,7 @@ Year | Institution | Description
 ## Member of 
 
 * <a href="https://krino.org/" target="_blank">KRINO</a>
+* <a href="http://www.aiucd.it/" target="_blank">Digital Humanities and Digital Culture Association</a>
 
 ## Communities and people who inspire me 
 
@@ -51,4 +57,4 @@ Year | Institution | Description
 
 * **ACM FAccT 2021**, Conference on Fairness, Accountability, and Transparency
 * **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
-
+* <a href="https://aiucd2021.labcd.unipi.it/" target="_blank">**AIUCD2021**</a>, as Assistant moderator :)
