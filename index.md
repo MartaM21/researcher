@@ -35,3 +35,7 @@ Year | Institution | Description
 * [Algorithmic Justice League](https://www.ajl.org/about) 
 
 > growth is a process (Rupi Kaur) 
+
+---
+
+<a class="twitter-timeline" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw">Tweets by Marta_Marchiori</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
