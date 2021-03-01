@@ -37,5 +37,3 @@ Year | Institution | Description
 > growth is a process (Rupi Kaur) 
 
 ---
-
-<a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
