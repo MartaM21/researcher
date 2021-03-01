@@ -17,7 +17,7 @@ NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discri
 *Full version in the resume (plus links)*
 
 Year | Institution | Description
------|--------------------------------------------------------------------------------------|-----------------------------------------------------
+-----|--------------------------------------------------------------------------------------|--------------------------------------------
 2021 | Knowledge Discovery and Data Mining Laboratory: Ethical, Trustworthy, Interactive AI | On-going Master’s thesis project within the field
 of Explainable Artificial Intelligence (XAI)
 2020 | Fondazione Bruno Kessler, Digital Humanities group | Traineeship on Fairness analysis for abusive language detection systems detecting unintended models biases
