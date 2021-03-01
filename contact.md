@@ -21,6 +21,8 @@ is_contact: true
 2. [Twitter](https://twitter.com/Marta_Marchiori)
 3. [Facebook](https://www.facebook.com/marta.b.marchiori/)
 
+<a href="https://www.thesitewizard.com/html-tutorial/open-links-in-new-window-or-tab.shtml" target="_top">How to Make Links Open in a New Window or Tab</a>
+
 ---
 
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/Marta_Marchiori?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
