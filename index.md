@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pict.jpg">
 
-Hi! I am Marta Marchiori Manerba, Master's student of **Digital Humanities** at University of Pisa, Italy :)
+Hi! I am Marta Marchiori Manerba, Master's student of <a href="https://infouma.fileli.unipi.it/laurea-magistrale/percorsi-formativi/tlin/" target="_blank">Digital Humanities - Language Technologies</a>, at University of Pisa in Italy :)
 
 ## Research Interests
 
@@ -56,4 +56,4 @@ Year | Institution | Description
 
 * **ACM FAccT 2021**, Conference on Fairness, Accountability, and Transparency
 * **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
-* <a href="https://aiucd2021.labcd.unipi.it/" target="_blank">**AIUCD2021**</a>, as Assistant moderator :)
+* <a href="https://aiucd2021.labcd.unipi.it/" target="_blank">AIUCD2021</a>, as Assistant moderator :)
