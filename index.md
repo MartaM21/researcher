@@ -26,14 +26,26 @@ Year | Institution | Description
 
 ## Publications and academic writing 
 
-* I wrote a post on the blog of Digital Humanities Group at FBK <a href="https://dh.fbk.eu/2021/02/discriminazioni-algoritmiche-tra-pregiudizi-umani-e-decisioni-automatiche/" target="_blank">Algorithmic discrimination, between human biases and automatic decisions</a>, at the end of the internship there. It was really a chance to refocus and discover how passionate I am about these topics (it's in Italian, sooner or later I will translate it)
+* I wrote a post on the blog of Digital Humanities Group at FBK, titled <a href="https://dh.fbk.eu/2021/02/discriminazioni-algoritmiche-tra-pregiudizi-umani-e-decisioni-automatiche/" target="_blank">Algorithmic discrimination, between human biases and automatic decisions</a>, at the end of the internship there. It was really a chance to refocus and discover how passionate I am about these topics (it's in Italian, sooner or later I will translate it)
+
+---
+
+## Courses, Seminars, Workshops
+
+*As audience*
+
+* **ACM FAccT 2021**, Conference on Fairness, Accountability, and Transparency
+* **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
+* <a href="https://aiucd2021.labcd.unipi.it/" target="_blank">AIUCD2021</a>, as Assistant moderator :)
+
 
 ---
 
 ## Member of 
 
 * <a href="https://krino.org/" target="_blank">KRINO</a>
-* <a href="http://www.aiucd.it/" target="_blank">Digital Humanities and Digital Culture Association</a>
+* <a href="https://www.ai-lc.it/en/" target="_blank">AILC</a>, Italian Association of Computational Linguistics
+* <a href="http://www.aiucd.it/" target="_blank">AIUCD</a>, Digital Humanities and Digital Culture Association
 
 ## Communities and people who inspire me 
 
@@ -46,15 +58,5 @@ Year | Institution | Description
 * <a href="https://www.skynettoday.com/" target="_blank">Skynet Today</a>: Putting AI News In Perspective
 * <a href="https://algorithmwatch.org/en/" target="_blank">AlgorithmWatch</a>
 
-> growth is a process
-> Rupi Kaur »
+> growth is a process Rupi Kaur »
 
----
-
-## Courses, Seminars, Workshops
-
-*As audience*
-
-* **ACM FAccT 2021**, Conference on Fairness, Accountability, and Transparency
-* **CLIC-IT 2020**, Seventh Italian Conference on Computational Linguistics
-* <a href="https://aiucd2021.labcd.unipi.it/" target="_blank">AIUCD2021</a>, as Assistant moderator :)
