@@ -47,7 +47,7 @@ Year | Institution | Description
 * <a href="https://www.ai-lc.it/en/" target="_blank">AILC</a>, Italian Association of Computational Linguistics
 * <a href="http://www.aiucd.it/" target="_blank">AIUCD</a>, Digital Humanities and Digital Culture Association
 
-## Communities and people who inspire me 
+## Communities, people and projects that inspire me 
 
 * <a href="https://www.ajl.org/about" target="_blank">Algorithmic Justice League</a> and Joy Buolammwini
 * <a href="https://ai.stanford.edu/~tgebru/" target="_blank">Timnit Gebru</a>
