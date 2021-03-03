@@ -1,6 +1,6 @@
 title: Little corner 
 url: "https://martamarchiori.github.io"
-baseurl: "/MyWebSite"
+baseurl: "https://martamarchiori.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
