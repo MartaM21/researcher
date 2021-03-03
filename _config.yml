@@ -15,6 +15,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jekyll-seo-tag
+
 nav:
  - name: "About"
    link: "https://martamarchiori.github.io/"
