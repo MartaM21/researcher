@@ -16,6 +16,6 @@ is_contact: true
 7. <a href="https://drive.google.com/file/d/1ZZnRWkfo29T8HhDs2RJ0EyON6Od01WaA/view?usp=sharing" target="_blank">Exam report for Computational Linguistics II</a> (in Italian)
 8. <a href="https://drive.google.com/file/d/1z8plVGE1S0ri5c3RHd3RtpCrKKNM4HUK/view?usp=sharing" target="_blank">Exam report for Data Mining</a> (in English)
 9. <a href="https://drive.google.com/file/d/1J-zwc4SAkFtRh9rLgjMkxlomP7Xr53JC/view?usp=sharing" target="_blank">Exam report for Physics methods for humanities</a>, Protests in Digital Age: 'Black Lives Matter' movement on Twitter (in Italian)
-10. <a href="https://drive.google.com/file/d/1uL6-mLnxcxDXADe_8JL6ccUczhFy3lNe/view?usp=sharing" target="_blank">Exam report for Text Analytics</a>, Automatic Misogyny Identication (in English)
+10. <a href="https://drive.google.com/file/d/1uL6-mLnxcxDXADe_8JL6ccUczhFy3lNe/view?usp=sharing" target="_blank">Exam report for Text Analytics</a>, Automatic Misogyny Identification (in English)
 11. <a href="https://drive.google.com/file/d/15zk-Oa_RXZ9eVnG0Ea7s8FgiZt3_Gtrn/view?usp=sharing" target="_blank">Exam slides for Digital Culture Seminar</a> (in Italian)
 
