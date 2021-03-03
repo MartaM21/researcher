@@ -55,7 +55,7 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
-    {% seo %}
+    {% raw %}{% seo %}{% endraw %}
 </head>
 <body>
     <div class="wrapper">
