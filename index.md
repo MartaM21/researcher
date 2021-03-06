@@ -18,7 +18,7 @@ NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discri
 
 Year | Institution | Description
 -----|--------------------------------------------------------------------------------------|--------------------------------------------
-2021 | Knowledge Discovery and Data Mining Laboratory: Ethical, Trustworthy, Interactive AI | On-going Master’s thesis project within the field of Explainable Artificial Intelligence (XAI)
+2021 | Knowledge Discovery and Data Mining Laboratory: Ethical, Trustworthy, Interactive AI, with Professor Riccardo Guidotti | On-going Master’s thesis project within the field of Explainable Artificial Intelligence (XAI)
 2020 | Fondazione Bruno Kessler, Digital Humanities group | Traineeship on Fairness analysis for abusive language detection systems detecting unintended models biases
 2020 | University of Pisa | Academic Tutor of the course Programming and Theoretical Fundamentals
 2020 | University of Pisa | On-going Master's Degree in Digital Humanities: Language Technologies
