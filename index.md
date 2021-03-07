@@ -14,7 +14,7 @@ NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discri
 
 ## Education summary and academic experiences
 
-*Full version in the resume (with all the links)*
+*Full version in CV (with all the links)*
 
 Year | Institution | Description
 -----|--------------------------------------------------------------------------------------|--------------------------------------------
