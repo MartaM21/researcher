@@ -43,7 +43,7 @@ Year | Institution | Description
 
 ## Member of 
 
-* <a href="https://krino.org/" target="_blank">KRINO</a>, cultural association that organizes panels, workshops and events within the field of Digital Humanities, with the aim of integrating and contaminating sciences and humanities
+* <a href="https://krino.org/" target="_blank">KRINO</a>, cultural association that organizes panels, workshops and events within the field of Digital Humanities, with the aim of integrating and contaminating sciences and arts
 * <a href="https://www.ai-lc.it/en/" target="_blank">AILC</a>, Italian Association of Computational Linguistics
 * <a href="http://www.aiucd.it/" target="_blank">AIUCD</a>, Digital Humanities and Digital Culture Association
 
