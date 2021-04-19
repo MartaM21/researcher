@@ -10,7 +10,7 @@ Hi! I am Marta Marchiori Manerba, Master's student of <a href="https://infouma.f
 
 ## Research Interests
 
-NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discrimination; Hate Speech Detection
+NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discrimination; Intersectionality; Hate Speech Detection
 
 ## Education summary and academic experiences
 
