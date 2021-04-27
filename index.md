@@ -49,8 +49,7 @@ Year | Institution | Description
 
 ## Communities, people and projects that inspire me 
 
-* <a href="https://www.ajl.org/about" target="_blank">Algorithmic Justice League</a> and Joy Buolammwini
-* <a href="https://ai.stanford.edu/~tgebru/" target="_blank">Timnit Gebru</a>
+* <a href="https://www.ajl.org/about" target="_blank">Algorithmic Justice League</a>
 * <a href="https://www.masakhane.io/" target="_blank">Masakhane</a>
 * <a href="https://www.turing.ac.uk/research/data-ethics" target="_blank">Data ethics</a> at The Alan Turing Institute
 * <a href="https://digitalethicslab.oii.ox.ac.uk/" target="_blank">Digital Ethics Lab</a>: Every Bit as Good
