@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="profile_pict.jpg">
 
-Hi! I am Marta Marchiori Manerba, Master's student of <a href="https://infouma.fileli.unipi.it/laurea-magistrale/percorsi-formativi/tlin/" target="_blank">Digital Humanities - Language Technologies</a>, at University of Pisa in Italy :)
+Hi! I am Marta Marchiori Manerba (she/her), Master's student of <a href="https://infouma.fileli.unipi.it/laurea-magistrale/percorsi-formativi/tlin/" target="_blank">Digital Humanities - Language Technologies</a>, at University of Pisa in Italy :) 
+During my studies, I explored the relation between technology and human rights. I work on Fairness and Explainability in Natural Language Processing, focusing on digital discrimination and algorithmic biases. I hold a Bachelor’s Degree in Digital Humanities from the University of Pisa, during which I developed a strong in interest in hate speech detection towards minorities in online discourse.
 
 ## Research Interests
 
