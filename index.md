@@ -12,7 +12,7 @@ During my studies, I explored the relation between technology and human rights. 
 
 ## Research Interests
 
-NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; Digital Discrimination; Intersectionality; Hate Speech Detection
+NLP; XAI; Fairness in ML; Algorithmic bias; Algorithmic Auditing; ML Evaluation; Data awareness; Digital Discrimination; Intersectionality; Hate Speech Detection; Abusive Language Detection Systems
 
 ## Education summary and academic experiences
 
